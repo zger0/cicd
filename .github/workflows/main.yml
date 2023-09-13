@@ -10,7 +10,7 @@ permissions:
   contents: read
 
 env: # 새로 추가한 부분
-  S3_BUCKET_NAME: build-jar-shine-deploy
+  S3_BUCKET_NAME: build-jar-test
   PROJECT_NAME: test-deploy
 
 jobs:
