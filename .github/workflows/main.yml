@@ -12,8 +12,6 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-    env:
-      working-directory: ./BE
 
     steps:
       - name: Checkout
